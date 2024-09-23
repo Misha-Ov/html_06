@@ -28,3 +28,7 @@ tr,
 td {
     outline: 1px solid black;
 }
+
+.cell {
+    padding: 20px;
+}
