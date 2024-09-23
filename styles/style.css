@@ -4,3 +4,13 @@
     box-sizing: border-box;
     border-collapse: collapse;
 }
+
+.index .wrapper {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.index .list__item {
+    margin: 20px;
+}
