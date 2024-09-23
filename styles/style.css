@@ -23,12 +23,59 @@ img {
     margin: 20px;
 }
 
-.table,
-tr,
-td {
-    outline: 1px solid black;
+.mondriana_page td {
+    border: 15px solid black;
+    padding: 20px;
 }
 
-.cell {
-    padding: 20px;
+.mondriana_page span {
+    opacity: 0;
+}
+
+.trow_1 {
+    height: 98px;
+}
+
+.trow_2__cell_8 {
+    width: 98px;
+    height: 220px;
+}
+
+
+.trow_2__cell_9 {
+    width: 455px;
+    height: 455px;
+    background-color: red;
+}
+
+.trow_1__cell_5 {
+    width: 286px;
+    background-color: yellow;
+}
+
+.trow_3__cell_15 {
+    width: 98px;
+    height: 335px;
+}
+
+.trow_5__cell_29 {
+    height: 215px;
+    background-color: yellow;
+}
+
+.trow_4__cell_23 {
+    height: 215px;
+    background-color: black;
+}
+
+.trow_5__cell_33 {
+    background-color: blue;
+}
+
+.trow_5__cell_34 {
+    background-color: red;
+}
+
+.trow_6__cell_39 {
+    background-color: black;
 }
