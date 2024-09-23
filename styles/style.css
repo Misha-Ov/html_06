@@ -5,6 +5,14 @@
     border-collapse: collapse;
 }
 
+.table {
+    margin: 100px auto;
+}
+
+img {
+    display: block;
+}
+
 .index .wrapper {
     display: flex;
     justify-content: center;
@@ -13,4 +21,10 @@
 
 .index .list__item {
     margin: 20px;
+}
+
+.table,
+tr,
+td {
+    outline: 1px solid black;
 }
