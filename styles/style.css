@@ -32,50 +32,50 @@ img {
     opacity: 0;
 }
 
-.trow_1 {
+.table__row--special {
     height: 98px;
 }
 
-.trow_2__cell_8 {
+.table__cell--main {
     width: 98px;
     height: 220px;
 }
 
 
-.trow_2__cell_9 {
+.table__cell--additional {
     width: 455px;
     height: 455px;
     background-color: red;
 }
 
-.trow_1__cell_5 {
+.table__cell--new {
     width: 286px;
     background-color: yellow;
 }
 
-.trow_3__cell_15 {
+.table__cell--backup {
     width: 98px;
     height: 335px;
 }
 
-.trow_5__cell_29 {
+.table__cell--colored {
     height: 215px;
     background-color: yellow;
 }
 
-.trow_4__cell_23 {
+.table__cell--secondary {
     height: 215px;
     background-color: black;
 }
 
-.trow_5__cell_33 {
+.table__cell--expanded {
     background-color: blue;
 }
 
-.trow_5__cell_34 {
+.table__cell--collapsed {
     background-color: red;
 }
 
-.trow_6__cell_39 {
+.table__cell--modified {
     background-color: black;
 }
